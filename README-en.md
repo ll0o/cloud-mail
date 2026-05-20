@@ -133,16 +133,6 @@ cloud-mail
 
 ```
 
-## Sponsor
-
-<a href="https://doc.skymail.ink/support.html">
-<img width="170px" src="./doc/images/support.png" alt="">
-</a>
-
 ## License
 
 This project is licensed under the [MIT](LICENSE) license.
-
-## Communication
-
-[Telegram](https://t.me/cloud_mail_tg)
